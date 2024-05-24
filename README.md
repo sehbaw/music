@@ -1,2 +1,2 @@
-Utilizing (this repository)
-[https://github.com/a3darekar/tunefind_scraper]
+Utilizing [this repository]
+(https://github.com/a3darekar/tunefind_scraper)
